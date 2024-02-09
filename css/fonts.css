@@ -1,0 +1,29 @@
+
+
+/* INTER */
+
+@font-face {
+    font-family: "Inter";
+    src: url(../Inter/Inter-Regular.ttf);
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "Inter";
+    src: url(../Inter/Inter-Bold.ttf);
+    font-weight: 600;
+}
+
+/* //INTER */
+
+
+
+/* LEXEND-DECA */
+
+@font-face {
+    font-family: "Lexend_Deca";
+    src: url(../Lexend_Deca/LexendDeca-Regular.ttf);
+    font-weight: 400;
+}
+
+/* //LEXEND-DECA */
