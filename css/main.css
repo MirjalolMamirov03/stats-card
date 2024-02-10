@@ -102,6 +102,7 @@ ul {
     font-weight: 400;
     line-height: 25px;
     margin-bottom: 72px;
+    opacity: 0.75;
 }
 
 .desc-amount {
